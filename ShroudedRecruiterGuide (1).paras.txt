@@ -1,0 +1,293 @@
+SHROUDED DEVELOPMENT
+
+Recruiter Onboarding Guide
+
+Client procurement, ticket standards, quota rules, and payment process
+
+Recruit with patience
+
+Not every lead becomes a client.
+
+Protect the ticket
+
+Agents handle the commission once opened.
+
+Track your cut
+
+Payment requests need proof and the ticket link.
+
+Start here
+
+Recruiting for Shrouded takes patience. You will not win every client, and you must stay professional when a lead says no. If you cannot remain composed, speak with Alice or Rocko before continuing recruiter work.
+
+1. Agency overview
+
+Shrouded Development is a Roblox development agency that connects clients with skilled developers for paid work. The agency helps with client procurement, developer matching, ticket organization, communication, and transactions.
+
+Services include scripting, building, modelling, animation, graphics, UI/UX, VFX, SFX, and project management.
+
+2. Recruiter role
+
+As a Recruiter, your role is to find clients who need Roblox development services and bring qualified leads into Shrouded. You are responsible for the first impression, the first conversation, and making sure the client understands what Shrouded can provide.
+
+You are not the client manager. Once a ticket is open, the Agent leads the commission.
+
+Where clients may come from
+
+Roblox hiring posts
+
+Development and community servers
+
+Personal contacts
+
+Online communities
+
+Other staff approved sources
+
+3. Core responsibilities
+
+Find qualified clients each week
+
+Start respectful before ticket communication
+
+Explain the services Shrouded provides
+
+Send relevant developer portfolios when useful
+
+Filter low value offers and percentage only offers
+
+Make sure the client understands our minimum prices
+
+Invite interested clients to the Discord server
+
+Ask interested clients to open a commission ticket
+
+Track the ticket so you know when to request your recruiter payment
+
+4. Client outreach standard
+
+Every message should feel written for that client, not copied into their inbox. Mention what they asked for, send portfolios that fit their request, and keep your tone direct and respectful.
+
+1. Read the client request fully.
+
+2. Confirm that the work is within Shrouded policy.
+
+3. Send a short tailored message and relevant portfolio examples.
+
+4. Answer simple questions about services, minimum pricing, and payment methods.
+
+5. If they are interested, invite them to the Discord server and ask them to open a ticket.
+
+Rejection rule
+
+If a client rejects our services, stop messaging them about the offer. Do not pressure, spam, argue, or try to wear them down.
+
+5. After a client says yes
+
+Once a client is interested, your job shifts from outreach to handoff.
+
+1. Invite the client to the Shrouded Discord server.
+
+2. Ask them to open a commission ticket.
+
+3. Wait for an Agent to take over the ticket.
+
+4. Stay in the ticket only to track status and payment progress.
+
+5. Request your recruiter payment only after the qualifying payment has proceeded.
+
+The client may be interested and still not hire our developers. Interest alone does not qualify for recruiter payment.
+
+6. Ticket behavior
+
+Recruiters are usually added to client tickets so they can track the commission. You are not added to run the ticket.
+
+Do not talk in tickets unless strictly needed.
+
+Do not interfere with Agent communication.
+
+Do not process payments yourself.
+
+Do not share screenshots, files, or private ticket information.
+
+Do not make promises outside Shrouded policy.
+
+If you must speak, keep it short and professional.
+
+Confidentiality
+
+Ticket information is private. You may talk about your own employment details, such as what you are paid, but you may not share ticket files, screenshots, or private client information. Breaking this rule can result in immediate removal.
+
+7. Pricing minimums
+
+Recruiters must filter offers before inviting clients. Do not bring in jobs that are below the minimum or based only on percentages.
+
+Service type
+
+Minimum price
+
+General services
+
+$55 USD or 15,000 Robux
+
+Scripting
+
+$105 USD or 30,000 Robux
+
+Building
+
+$105 USD or 30,000 Robux
+
+Prices can increase depending on complexity, deadline, developer role, and project size.
+
+8. Payment methods and upfront payment
+
+Shrouded accepts PayPal USD, Crypto USD, and Robux. Recruiters may request to receive their payment through one form only, but fees or conversion differences may slightly reduce the received amount.
+
+Shrouded requires 50 percent upfront payment before a developer starts work. This protects the agency and the developer if a client backs out later.
+
+Transactions are handled by the Agent. Recruiters track payment status but do not process transactions.
+
+9. Recruiter payment
+
+Recruiter payment is based on the total commission value and is requested once the client proceeds with the qualifying payment.
+
+Recruiter payment table
+
+Total commission value
+
+Recruiter payment
+
+$55 to $150
+
+$10
+
+$151 to $350
+
+$20
+
+$351 to $550
+
+$35
+
+$551 to $999
+
+$50
+
+$1,000+
+
+$65 + 2.5%
+
+Senior recruiter payment table
+
+Total commission value
+
+Senior recruiter payment
+
+$55 to $150
+
+$10
+
+$151 to $350
+
+$22.50
+
+$351 to $550
+
+$42.50
+
+$551 to $999
+
+$70
+
+$1,000+
+
+$70 + 3.5%
+
+10. Payment request format
+
+Use the format below when requesting your cut.
+
+PayPal: payshrouded@gmail.comTotal Commission Value: $250Rank: RecruiterMy Cut: $20Total Monthly Commission Value: $1,000Proof: Insert ticket channel link
+
+11. Quota and strikes
+
+Recruiters are expected to bring in commissions every week. Current active quota is two commissions or $100 worth of commission value per week unless leadership announces a different target.
+
+A commission counts toward quota only when the client opens a ticket and proceeds with payment.
+
+Failure to meet quota may result in a strike. Three strikes can result in removal. For Senior Recruiters, three strikes can result in demotion. Strikes expire after two months.
+
+12. Clients Shrouded does not take
+
+Clients looking to hire developers for their own studios
+
+Percentage only offers
+
+Extremely low value offers
+
+Unclear or unserious requests
+
+Clients who refuse the 50 percent upfront policy
+
+Clients who act disrespectfully or suspiciously
+
+If you are unsure whether a client should be accepted, ask staff before inviting them.
+
+13. Server roles
+
+Recruiters should understand who handles each part of Shrouded work.
+
+Role
+
+Function
+
+Owner
+
+Makes executive decisions, resolves disputes, and has final authority.
+
+Moderator
+
+Handles moderation, server structure, bans, mutes, and role organization.
+
+Agent
+
+Manages client tickets, payments, client communication, and mediation.
+
+Developer
+
+Completes the technical work requested through the ticket.
+
+Client
+
+Requests services and pays 50 percent upfront before work begins.
+
+Recruiter
+
+Finds potential clients and brings qualified leads into Shrouded.
+
+14. Competitions and promotions
+
+Shrouded may hold monthly recruiter competitions. Competitions can be separated between Recruiters and Senior Recruiters.
+
+A top performing Recruiter may be promoted to Senior Recruiter for the following month. Senior Recruiter competitions may include separate rewards.
+
+15. Final checklist
+
+✓ Read the client request before messaging.
+
+✓ Invite interested clients to open a ticket.
+
+✓ Personalize your outreach.
+
+✓ Let Agents manage ticket communication and payments.
+
+✓ Send portfolios that match the request.
+
+✓ Request your cut only after qualifying payment is confirmed.
+
+✓ Respect rejection immediately.
+
+✓ Keep ticket information confidential.
+
+Questions may go to meowwalice on Discord or to the appropriate Shrouded staff member.
